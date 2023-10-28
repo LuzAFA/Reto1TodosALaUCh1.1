@@ -7,7 +7,7 @@ public class SceneID: MonoBehaviour
     public int sceneID;
     public void ChangeSceneID()
     {
-        Changescene.tagScene = sceneID;
+        ChangeScene.tagScene = sceneID;
     }
 }
 
