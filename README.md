@@ -29,4 +29,11 @@ Un día de infortunios lleva a nuestros héroes a recorrer la ciudad 🏙️ en 
 - Supera obstáculos y enemigos 👾.
 - ¡Gana o pierde en una lucha contrarreloj! ⌛
 
-**¡Prepárate para saltar, luchar y triunfar en "Street Jumper"
+**¡Prepárate para saltar, luchar y triunfar en "Street Jumper"**
+
+**Realizado por 💻**
+
+👩‍💻 Luz Adriana Fernández Acuña 
+👨‍💻 Wilson Esteban Marquez Chaparro
+
+
